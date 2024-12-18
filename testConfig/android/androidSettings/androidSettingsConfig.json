@@ -1,0 +1,38 @@
+{
+  "testConfigName": "androidSettingsConfig",
+
+  "appIconName": "InvestaTrade-Dev",
+
+  "packageOrBundleId": "com.investatrade.develop",
+  "startupPackageOrBundleId": "com.investatrade.develop",
+  "startupActivity": "com.investatrade.MainActivity",
+
+  "settings": {
+    "always_finish_activities": "0"
+  },
+
+  "capabilities": {
+    "language": "en",
+    "locale": "US",
+    "autoGrantPermissions": true
+  },
+
+  "profiles": [
+    {
+      "profileName": "Android 12",
+      "capabilities": {
+      }
+    },
+    {
+      "profileName": "Android 13",
+      "capabilities": {
+      }
+    },
+    {
+      "profileName": "emulator-5556",
+      "capabilities": {
+        "udid": "emulator-5556"
+      }
+    }
+  ]
+}

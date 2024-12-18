@@ -1,0 +1,9 @@
+Reference Number,IsBuy,OrderType,StockCode,CurrentDate,IsEndOfDay,OrderStatus,DesiredPrice,DesiredQuantity,MinQuantity,TotalPrice,Subtotal,FeesWithComma,DIFF Fees,WillAddNotes,NoteMessage,Expected Status,Executed Price, Executed Quantity
+367280,true,Limit,EMP,"Sep 03, 2024",true,Rejected,17.92,800,100,14379.00,14336.0,43.0,0.05,false,Buying EMP with 800 shares @ 17.92 Limit Price,Cancelled,,, , , , 
+367281,true,Limit,VITA,"Sep 03, 2024",false,Rejected,0.2310,80000,10000,18535.44,18480.0,55.44,0.03,false,Buying VITA with 80000 shares @ 0.2310 Limit Price,Cancelled,0.17,50000, 46.2, 5.54, 1.85, 1.85
+367282,true,Limit,WEB,"Sep 03, 2024",true,Rejected,21.05,700,100,14779.20,14735.0,44.2,0.05,false,Buying WEB with 700 shares @ 21.05 Limit Price,Cancelled,15.94,100, 36.84, 4.42, 1.47, 1.47
+367283,true,Limit,VITA,"Sep 03, 2024",true,Rejected,0.2310,70000,10000,16218.52,16170.0,48.52,0.03,true,Buying VITA with 70000 shares @ 0.2310 Limit Price,Cancelled,,, , , , 
+367284,true,Limit,KEEPR,"Sep 03, 2024",true,Rejected,7.20,800,100,5783.56,5760.0,23.56,0.02,true,Buying KEEPR with 800 shares @ 7.20 Limit Price,Cancelled,,, , , , 
+367285,true,Limit,KEEPR,"Sep 03, 2024",true,Rejected,7.20,600,100,4343.26,4320.0,23.26,0.04,false,Buying KEEPR with 600 shares @ 7.20 Limit Price,Cancelled,,, , , , 
+367286,true,Limit,EMP,"Sep 03, 2024",true,Rejected,17.92,700,100,12581.62,12544.0,37.62,0.05,false,Buying EMP with 700 shares @ 17.92 Limit Price,Cancelled,,, , , , 
+367287,true,Limit,HOME,"Sep 03, 2024",false,Rejected,11.40,800,100,9147.36,9120.0,27.36,0.04,false,Buying HOME with 800 shares @ 11.40 Limit Price,Cancelled,,, , , , 

@@ -1,0 +1,6 @@
+Reference Number,IsBuy,StockCode,CurrentDate,IsEndOfDay,OrderStatus,DesiredPrice,DesiredQuantity,MinQuantity,Subtotal,FeesWithComma,WillAddNotes,NoteMessage,Expected Status
+367130,false,KEEPR,"Aug 21, 2024",false,Rejected,7.20,100,100,720.0,26.86,false,Selling KEEPR with 100 shares @ 7.20 Limit Price,Cancelled
+367131,false,DMC,"Aug 21, 2024",true,Rejected,3.08,1000,1000,3080.0,41.5,true,Selling DMC with 1000 shares @ 3.08 Limit Price,Cancelled
+367132,false,VITA,"Aug 21, 2024",true,Rejected,0.2310,10000,10000,2310.0,36.72,false,Selling VITA with 10000 shares @ 0.2310 Limit Price,Cancelled
+367133,false,AGI,"Aug 21, 2024",true,Rejected,9.76,100,100,976.0,28.46,true,Selling AGI with 100 shares @ 9.76 Limit Price,Cancelled
+367134,false,GTPPA,"Aug 21, 2024",false,Rejected,1055.00,5,5,5275.0,55.11,false,Selling GTPPA with 5 shares @ 1055.00 Limit Price,Cancelled

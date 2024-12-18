@@ -1,0 +1,32 @@
+{
+  "testConfigName": "iOSSettingsConfig",
+
+  "appIconName": "InvestaTrade",
+
+  "packageOrBundleId": "com.investagrams.InvestaTrade",
+
+  "startupPackageOrBundleId": "com.investagrams.InvestaTrade",
+
+
+  "capabilities": {
+    "autoGrantPermissions": true,
+    "bundleId": "com.investagrams.InvestaTrade",
+    "language": "en",
+    "locale": "US"
+  },
+
+  "profiles": [
+    {
+      "profileName": "iOS 17.2",
+      "capabilities": {
+      }
+    },
+    {
+      "profileName": "iOS 16.1",
+      "capabilities": {
+        "platformVersion": "16.1"
+      }
+    }
+
+  ]
+}
